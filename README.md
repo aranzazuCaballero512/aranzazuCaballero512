@@ -8,4 +8,4 @@
 - 📫 How to reach me: LinkedIn (add your link here)  
 - 😄 Pronouns: she/her  
 - ⚡ Fun fact: I work faster when my white noise is Mexican telenovelas 
-    I don’t watch them, I just listen to them 📺😂
+    I don’t watch them; I listen to them 📺😂
