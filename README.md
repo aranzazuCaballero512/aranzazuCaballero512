@@ -1,16 +1,11 @@
-## Hi there 👋
+# Hi, I'm Aranzazu 👋
 
-<!--
-**aranzazuCaballero512/aranzazuCaballero512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on growth, acquisition, and activation experiments  
+- 🌱 I’m currently learning more about data, AI, and how systems influence behavior  
+- 👯 I’m open to collaborating on projects related to growth, data, or experimentation  
+- 🤔 I’m exploring how to turn curiosity into small, testable ideas  
+- 💬 Ask me about growth, user journeys, and experiments  
+- 📫 How to reach me: LinkedIn (add your link here)  
+- 😄 Pronouns: she/her  
+- ⚡ Fun fact: I work faster when my white noise is Mexican telenovelas 
+    I don’t watch them, I just listen to them 📺😂
