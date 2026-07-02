@@ -1,4 +1,5 @@
 # Hi, I'm Aranzazu 👋
+- I’m interested in how things grow — users, products, and ideas.
 
 - 🔭 I’m currently working on growth, acquisition, and activation experiments  
 - 🌱 I’m currently learning more about data, AI, and how systems influence behavior  
